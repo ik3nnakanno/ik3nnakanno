@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ikenna or @ik3nnakanno
 - 👀 I’m interested in Web and game development 
-- 🌱 I’m currently learning HTML, CSS, and JavaScript 
+- 🌱 I’m currently learning JavaScript 
 - 📫 How to reach me email: kanno.ikenna@lmu.edu.ng
 
 <!---
